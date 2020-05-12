@@ -13,32 +13,32 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'hats',
-          imageUrl: 'https://i.pinimg.com/originals/0b/b9/d2/0bb9d27d5de16cabe820a3608952a7ef.jpg',
+          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
           id: 1,
           linkUrl: 'hats'
         },
         {
           title: 'jackets',
-          imageUrl: 'https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2017%2F11%2Fcanada-goose-london-regent-street-store-opening-6.jpg?quality=95&w=1170&cbr=1&q=90&fit=max',
+          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
           id: 2,
           linkUrl: ''
         },
         {
           title: 'sneakers',
-          imageUrl: 'https://arch-usa.com/wp-content/uploads/2017/10/uploads2F1508887017577-AFEWxSAUCONY-Studio-1200x800-1.jpg',
+          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
           id: 3,
           linkUrl: ''
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.pinimg.com/originals/e8/d4/5f/e8d45f5a041948369a3369e507da9102.jpg',
+          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
           title: 'mens',
-          imageUrl: 'https://www.thefashionisto.com/wp-content/uploads/2018/11/Mango-Man-Holiday-2018-Campaign-003.jpg',
+          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
           size: 'large',
           id: 5,
           linkUrl: ''
